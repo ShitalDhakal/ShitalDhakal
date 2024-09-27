@@ -1,4 +1,4 @@
-## Hi there 👋 I'm an undergraduate student from LA-Grandee International college. I studying Bachelors. I like coding, learning new things, sharing ideas.
+## Hi there 👋Hey there! I'm currently an undergraduate student at LA-Grandee International College, pursuing my Bachelor's degree. I'm super passionate about coding, always eager to learn new things, and absolutely love sharing ideas. I'm all about embracing creativity and innovation!
 
 <!--
 **ShitalDhakal/ShitalDhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
